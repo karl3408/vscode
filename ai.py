@@ -6,4 +6,4 @@ import requests as rq
 #AIzaSyCMX8pHuzKUlp5AgkBtp3SD12MBhvGuc_g
 class Ai:
     def __init__(self):
-        
+        pass
