@@ -7,3 +7,5 @@ import requests as rq
 class Ai:
     def __init__(self):
         pass
+
+print(tf.__version__)
