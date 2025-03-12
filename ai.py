@@ -5,6 +5,7 @@ import tensorflow as tf
 import pandas as pd
 import numpy as np
 import requests as rq
+import pytorch as pt
 
 class Ai:
     def __init__(self):
