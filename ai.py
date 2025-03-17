@@ -6,6 +6,7 @@ import pandas as pd
 import numpy as np
 import requests as rq
 import pytorch as pt
+import flask as fl
 
 class Ai:
     def __init__(self):
